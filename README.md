@@ -28,10 +28,10 @@ Here are some screenshots of the website:
 ### Homepage:
 ![Image](https://github.com/user-attachments/assets/ef700a2e-8c17-44b6-9cd2-942bcc478232)
 
-### Rice Recipe Page:
+###  Reciped Part:
 ![Image](https://github.com/user-attachments/assets/972b0df3-df6b-4a1c-b88a-4467deeac837)
 
-### Pasta Recipe Page:
+### Dessert Recipe Page:
 ![Image](https://github.com/user-attachments/assets/266b3018-1bf9-460c-9b9a-81f857ba015a)
 
 ---
